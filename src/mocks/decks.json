@@ -1,0 +1,23 @@
+[
+  {
+    "backgroundColor": "#A7B6E840",
+    "tagColor": "#2A47B1",
+    "title": "Deck 1",
+    "tagText": "lorem",
+    "cardsQty": 43
+  },
+  {
+    "backgroundColor": "#D8EFF8",
+    "tagColor": "#047EAF",
+    "title": "Deck 1",
+    "tagText": "ipsum",
+    "cardsQty": 93
+  },
+  {
+    "backgroundColor": "#A7B6E840",
+    "tagColor": "#2A47B1",
+    "title": "Deck 1",
+    "tagText": "lorem",
+    "cardsQty": 178
+  }
+]

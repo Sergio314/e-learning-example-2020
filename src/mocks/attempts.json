@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "1",
+        "reportId": "some-attempt-id-1",
+        "createdAt": "2021-11-27T07:31:29.000Z",
+        "isCompleted": true,
+        "percent": 45,
+        "isCronCompleted": true
+    },
+    {
+        "_id": "2",
+        "reportId": "some-attempt-id-2",
+        "createdAt": "2021-11-20T07:31:29.000Z",
+        "isCompleted": true,
+        "percent": 45,
+        "isCronCompleted": false
+    },
+    {
+        "_id": "3",
+        "reportId": "some-attempt-id-3",
+        "createdAt": "2021-10-18T07:31:29.000Z",
+        "isCompleted": false,
+        "percent": 45,
+        "isCronCompleted": true
+    },
+    {
+        "_id": "4",
+        "reportId": "some-attempt-id-4",
+        "createdAt": "2021-10-10T07:31:29.000Z",
+        "isCompleted": true,
+        "percent": 45,
+        "isCronCompleted": false
+    }
+]

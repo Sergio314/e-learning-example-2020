@@ -1,0 +1,1 @@
+export { SuggestionsResult } from './SuggestionsResult';

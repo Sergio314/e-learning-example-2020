@@ -1,0 +1,1 @@
+export { PrevAsessments } from './PrevAsessments';

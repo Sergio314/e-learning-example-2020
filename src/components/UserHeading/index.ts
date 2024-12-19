@@ -1,0 +1,1 @@
+export { UserHeading } from './UserHeading';
